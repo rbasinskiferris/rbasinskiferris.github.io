@@ -11,7 +11,7 @@ cv: "cv_nov2025.pdf"
 blog: false
 
 socials:
-    github: "aurora-bf"
+    github: "rbasinskiferris"
     google_scholar: "citations?user=sfO2wj8AAAAJ&hl=en&oi=ao"
     orcid: "0000-0002-9132-4750"
 
