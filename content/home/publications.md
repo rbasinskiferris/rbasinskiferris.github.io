@@ -8,7 +8,6 @@ content_type: 'publications'
 section_settings:
     show_section: true
     title: 'Recent Work (see full list on CV)'
-    subtitle: 'Note, previous publication name: Aurora Basinski-Ferris'    
 ---
 
 home/publications.md
