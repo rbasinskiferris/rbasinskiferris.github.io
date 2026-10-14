@@ -5,7 +5,7 @@ authors:
 - Laure Zanna
 - Ian Eisenman
 date: "2025"
-weight: 2
+weight: 3
 
 publication: "Journal of Physical Oceanography"
 links:
