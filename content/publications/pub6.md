@@ -8,6 +8,6 @@ weight: 1
 
 publication: "(submitted)"
 links:
-    arxiv: [https://arxiv.org/abs/2509.19730](https://arxiv.org/pdf/2610.19389)
+    arxiv: https://arxiv.org/pdf/2610.19389
 
 ---
